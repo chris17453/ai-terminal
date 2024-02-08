@@ -21,3 +21,7 @@ pipenv shell
 # run it
 python aiterm.py --model-dir <your model dir>
 ```
+
+## Example
+
+![AI Terminal](./assets/linkedin-aiterm2.gif)
